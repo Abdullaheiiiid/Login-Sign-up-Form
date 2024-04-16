@@ -1,0 +1,11 @@
+.row{
+        margin-top: 70px;
+    }
+        .row ul li a{
+          color: rgb(178, 180, 178);
+            text-decoration: none;
+        }
+        .row ul li a:hover{
+            color: white;
+            padding-left: 3px;
+        }
